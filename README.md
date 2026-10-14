@@ -7,7 +7,7 @@ On the site: https://vovazakharov.com/music/our-punk-rock
 ## Files
 
 - `our-punk-rock_mix.mp3` — the mix, unmastered: what the master was made from.
-- `our-punk-rock.mp3` — the master, as the site plays it.
+- `за_обложкой - Наш панк-рок.mp3` — the master, as the site plays it.
 - `mastering/` — the script that made the master: `master.py`, the `spectrum.py` it imports, and their `requirements.txt`.
 
 ## How it was mastered
